@@ -1,0 +1,15 @@
+.bg{
+    background-color: rgb(15, 15, 34);
+    align-items: center;
+}
+.myFrome{
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    margin-top: 150px;
+    padding: 20px 50px ;
+    background-color: white;
+    border-radius:10px ;
+    font-family: "Poppins", sans-serif;
+    font-size: 0.9375em;
+}
